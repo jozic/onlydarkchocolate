@@ -6,6 +6,7 @@ The default Casper theme for [Ghost](http://github.com/tryghost/ghost/) modified
  - image posts on main page
  - disqus comments
  - twitter typeahead search by post titles
+ - Open Sans is used everywhere, no Merriweather (default Times New Roman in ios browsers is a deal breaker for serif fonts :( )
  
 ## Build zip
 
